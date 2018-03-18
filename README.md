@@ -1,8 +1,8 @@
-# MOOC-
+# Data Science for MOOC Courses 
 MOOC Data
 Task Involved: Classifying whether a student will pass or fail in MOOC course depending on type of action(play, seek, load, stop or pause) taken for each video by each user.
 
-Data Description: Train & Test files are provided. Data is given for 63 videos by 5050 users.
+Data Description: Train & Test files with description are provided. Data is given for 63 videos by 5050 users.
 
 Feature Engineering Involves:
 
